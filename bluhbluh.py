@@ -3,4 +3,6 @@ x = 0
 #yes this is a python file
 for y in range(0,100):
     print y
-    
+
+import math
+print math.pi
