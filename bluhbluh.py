@@ -6,3 +6,5 @@ for y in range(0,100):
 
 import math
 print math.pi
+
+print "ooooh some new interesting twigs"
